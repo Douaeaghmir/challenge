@@ -6,7 +6,7 @@ function table(num)
 {
  num = Number(prompt("enter number : "));
 
-for (let i = 9; i >= 1; i--)
+for (let i = 10; i >= 1; i--)
 {
     let res = num * i;
 
